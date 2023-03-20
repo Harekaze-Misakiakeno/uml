@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T07:31:28.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_ouYz8c04pywLXFoXO6g" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T07:41:58.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Vdshhii_ojchclqo9XHI" version="21.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1695" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m3I1wzvR6y6KVqd5ag9C-14" value="移除线缓存，创建线" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="m3I1wzvR6y6KVqd5ag9C-14" value="创建线" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="212.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m3I1wzvR6y6KVqd5ag9C-16" value="创建面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -113,11 +113,38 @@
         <mxCell id="m3I1wzvR6y6KVqd5ag9C-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m3I1wzvR6y6KVqd5ag9C-50" target="m3I1wzvR6y6KVqd5ag9C-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m3I1wzvR6y6KVqd5ag9C-50" value="选择" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="m3I1wzvR6y6KVqd5ag9C-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m3I1wzvR6y6KVqd5ag9C-50" target="m3I1wzvR6y6KVqd5ag9C-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m3I1wzvR6y6KVqd5ag9C-50" value="选择&lt;br&gt;悬浮图元高亮" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="50" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="m3I1wzvR6y6KVqd5ag9C-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m3I1wzvR6y6KVqd5ag9C-51" target="m3I1wzvR6y6KVqd5ag9C-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m3I1wzvR6y6KVqd5ag9C-51" value="拖拽移动" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="190" width="80" height="80" as="geometry" />
+          <mxGeometry x="590" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m3I1wzvR6y6KVqd5ag9C-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m3I1wzvR6y6KVqd5ag9C-53" target="m3I1wzvR6y6KVqd5ag9C-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m3I1wzvR6y6KVqd5ag9C-53" value="编辑查看信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m3I1wzvR6y6KVqd5ag9C-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m3I1wzvR6y6KVqd5ag9C-57" target="m3I1wzvR6y6KVqd5ag9C-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="170" />
+              <mxPoint x="670" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m3I1wzvR6y6KVqd5ag9C-57" value="取消保存刷新场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
