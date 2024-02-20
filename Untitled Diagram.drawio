@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T12:05:34.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="dT9LARw4hgeBcrYivzjl" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T14:19:52.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="eOaMF5ofn2-YTmd4MYNm" version="23.1.5" type="github">
   <diagram name="Page-1" id="doG4N9NbRk4QpIvvMpRP">
     <mxGraphModel dx="794" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tt_tbJYuS4VU8zwcYe2W-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+        <mxCell id="tt_tbJYuS4VU8zwcYe2W-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="200" y="50" width="20" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="tt_tbJYuS4VU8zwcYe2W-4" value="server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="tt_tbJYuS4VU8zwcYe2W-4" value="server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="425" y="50" width="100" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="tt_tbJYuS4VU8zwcYe2W-5" value="https请求" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="tt_tbJYuS4VU8zwcYe2W-2" target="tt_tbJYuS4VU8zwcYe2W-4">
+        <mxCell id="tt_tbJYuS4VU8zwcYe2W-5" value="https请求" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="tt_tbJYuS4VU8zwcYe2W-2" target="tt_tbJYuS4VU8zwcYe2W-4" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="230" y="130" as="sourcePoint" />
             <mxPoint x="290" y="130" as="targetPoint" />
@@ -19,10 +19,59 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tt_tbJYuS4VU8zwcYe2W-6" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="tt_tbJYuS4VU8zwcYe2W-4" target="tt_tbJYuS4VU8zwcYe2W-2">
+        <mxCell id="tt_tbJYuS4VU8zwcYe2W-6" value="ssl证书+公钥" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="350" y="220" as="sourcePoint" />
-            <mxPoint x="430" y="220" as="targetPoint" />
+            <mxPoint x="474.5" y="180" as="sourcePoint" />
+            <mxPoint x="209.5" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxpsL2U_qw5u3FRzcPKZ-1" value="自签名证书工具、CA机构" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="660" y="50" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="AxpsL2U_qw5u3FRzcPKZ-2" value="ssl证书，非对称加密的私钥和公钥" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="AxpsL2U_qw5u3FRzcPKZ-1" target="tt_tbJYuS4VU8zwcYe2W-4">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="475" y="110" as="sourcePoint" />
+            <mxPoint x="485" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxpsL2U_qw5u3FRzcPKZ-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209.5" y="210" as="sourcePoint" />
+            <mxPoint x="709.5" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxpsL2U_qw5u3FRzcPKZ-5" value="验证ssl证书是否受信任" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AxpsL2U_qw5u3FRzcPKZ-4">
+          <mxGeometry x="-0.0936" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxpsL2U_qw5u3FRzcPKZ-6" value="生成对称加密的密钥，使用公钥加密发送" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="209.5" y="250" as="sourcePoint" />
+            <mxPoint x="474.5" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxpsL2U_qw5u3FRzcPKZ-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209.5" y="290" as="sourcePoint" />
+            <mxPoint x="474.5" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360.5" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxpsL2U_qw5u3FRzcPKZ-8" value="使用新的密钥进行加密通讯" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AxpsL2U_qw5u3FRzcPKZ-7">
+          <mxGeometry x="-0.0936" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
