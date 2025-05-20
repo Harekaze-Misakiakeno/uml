@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1760" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;CAE365通用&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;结构仿真、流体仿真&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="630" width="530" height="230" as="geometry" />
+          <mxGeometry x="-90" y="630" width="500" height="250" as="geometry" />
         </mxCell>
         <mxCell id="1764" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;数字孪生&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="780" y="1180" width="335" height="104" as="geometry" />
