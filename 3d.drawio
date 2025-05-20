@@ -89,8 +89,9 @@
             <mxPoint x="307.6829268292681" y="1398" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1779" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" edge="1">
+        <mxCell id="1779" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="hU8TNFoHVjc1xS8ysNcD-1827" target="1771" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="1370" as="sourcePoint" />
             <mxPoint x="474.9302325581398" y="1408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
