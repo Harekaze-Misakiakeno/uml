@@ -63,6 +63,9 @@
         <mxCell id="elQow35WlKMonrVf-jGj-1" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;几何：stp&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;网格：med&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;仿真结果：VTK、rmed、case&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="920" y="160" width="290" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="elQow35WlKMonrVf-jGj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="elQow35WlKMonrVf-jGj-2" target="elQow35WlKMonrVf-jGj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="elQow35WlKMonrVf-jGj-2" value=".zip" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="390" width="170" height="80" as="geometry" />
         </mxCell>
