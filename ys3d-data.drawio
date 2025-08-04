@@ -88,7 +88,7 @@
           <mxGeometry x="1370" y="155" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="elQow35WlKMonrVf-jGj-15" value="Logic" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1790" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
