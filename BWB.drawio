@@ -4,11 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A0T-67NvxfHEHgCS9dby-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A0T-67NvxfHEHgCS9dby-1" target="A0T-67NvxfHEHgCS9dby-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A0T-67NvxfHEHgCS9dby-1" value="导入模型，提取装配体特征、名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A0T-67NvxfHEHgCS9dby-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A0T-67NvxfHEHgCS9dby-2" target="A0T-67NvxfHEHgCS9dby-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A0T-67NvxfHEHgCS9dby-2" value="使用ai更具描述以及特征信息生成设计稿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0T-67NvxfHEHgCS9dby-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A0T-67NvxfHEHgCS9dby-3" target="A0T-67NvxfHEHgCS9dby-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0T-67NvxfHEHgCS9dby-3" value="提取设计稿风格颜色，与装配体绑定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
