@@ -103,6 +103,14 @@
         <mxCell id="9iy6A6iOUr_-d6wuEB2l-53" value="生成表图" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;flipH=1;" vertex="1" parent="9iy6A6iOUr_-d6wuEB2l-40">
           <mxGeometry x="138" y="52" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9iy6A6iOUr_-d6wuEB2l-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9iy6A6iOUr_-d6wuEB2l-43" target="9iy6A6iOUr_-d6wuEB2l-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="1180" />
+              <mxPoint x="1660" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9iy6A6iOUr_-d6wuEB2l-43" value="中间数据库" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1465" y="1150" width="100" height="60" as="geometry" />
         </mxCell>
