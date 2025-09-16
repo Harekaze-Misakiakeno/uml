@@ -28,6 +28,9 @@
         <mxCell id="77e6c97f196da883-12" value="预处理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="30" y="125" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9iy6A6iOUr_-d6wuEB2l-6" value="结果后处理" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="30" y="345" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-5" value="Devastaor(salome)" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="480" y="20" width="160" height="750" as="geometry" />
         </mxCell>
