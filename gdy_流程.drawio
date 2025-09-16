@@ -117,8 +117,14 @@
         <mxCell id="9iy6A6iOUr_-d6wuEB2l-43" value="中间数据库" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1455" y="1110" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9iy6A6iOUr_-d6wuEB2l-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9iy6A6iOUr_-d6wuEB2l-45" target="9iy6A6iOUr_-d6wuEB2l-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9iy6A6iOUr_-d6wuEB2l-45" value="网格文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1692" y="1110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9iy6A6iOUr_-d6wuEB2l-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9iy6A6iOUr_-d6wuEB2l-46" target="9iy6A6iOUr_-d6wuEB2l-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9iy6A6iOUr_-d6wuEB2l-46" value="求解文件" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1818" y="1110" width="100" height="60" as="geometry" />
