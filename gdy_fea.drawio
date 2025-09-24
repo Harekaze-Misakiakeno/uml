@@ -1,14 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="9HMh4EO05H7oTtYkU9SI">
-    <mxGraphModel dx="681" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="878" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oBnjBesArjTpfoqyC0Vt-1" value="前处理参数初始化" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="oBnjBesArjTpfoqyC0Vt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=filledEdge;fillColor=default;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="oBnjBesArjTpfoqyC0Vt-1" target="oBnjBesArjTpfoqyC0Vt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnjBesArjTpfoqyC0Vt-1" value="前处理参数文件读取" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oBnjBesArjTpfoqyC0Vt-2" value="参数校验" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="oBnjBesArjTpfoqyC0Vt-2" value="参数初始化、校验" style="rounded=0;whiteSpace=wrap;html=1;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnjBesArjTpfoqyC0Vt-3" value="mainsif.py&lt;div&gt;FEA.arg&lt;/div&gt;&lt;div&gt;*.DAT&lt;/div&gt;&lt;div&gt;*.DB&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
