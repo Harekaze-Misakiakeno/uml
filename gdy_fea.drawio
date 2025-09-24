@@ -19,6 +19,12 @@
         <mxCell id="oBnjBesArjTpfoqyC0Vt-5" value="静力分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="310" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="oBnjBesArjTpfoqyC0Vt-6" value="桩土相互作用分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="310" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oBnjBesArjTpfoqyC0Vt-7" value="模态分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="310" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
