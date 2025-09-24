@@ -17,28 +17,28 @@
           <mxGeometry x="500" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oBnjBesArjTpfoqyC0Vt-5" value="静力分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="70" height="70" as="geometry" />
+          <mxGeometry x="155" y="320" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oBnjBesArjTpfoqyC0Vt-6" value="桩土相互作用分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="310" width="70" height="70" as="geometry" />
+          <mxGeometry x="255" y="320" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oBnjBesArjTpfoqyC0Vt-7" value="模态分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="700" y="310" width="70" height="70" as="geometry" />
+          <mxGeometry x="355" y="320" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oBnjBesArjTpfoqyC0Vt-8" value="等效静力地震分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="800" y="310" width="70" height="70" as="geometry" />
+          <mxGeometry x="455" y="320" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oBnjBesArjTpfoqyC0Vt-9" value="超单元生成分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="800" y="400" width="70" height="70" as="geometry" />
+          <mxGeometry x="455" y="410" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oBnjBesArjTpfoqyC0Vt-10" value="确定性疲劳分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="400" width="70" height="70" as="geometry" />
+          <mxGeometry x="155" y="410" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oBnjBesArjTpfoqyC0Vt-11" value="波浪谱疲劳分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="70" height="70" as="geometry" />
+          <mxGeometry x="255" y="410" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oBnjBesArjTpfoqyC0Vt-12" value="弹性撞船分析" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="700" y="400" width="70" height="70" as="geometry" />
+          <mxGeometry x="355" y="410" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
